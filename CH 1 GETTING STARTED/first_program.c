@@ -1,5 +1,5 @@
 /* Calculation of simple interest*/
-
+/* Author : Ansh Singh  Date - 22/08/2025 */
 
 #include <stdio.h>
 
